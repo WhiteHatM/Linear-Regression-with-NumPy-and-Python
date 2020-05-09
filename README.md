@@ -1,13 +1,13 @@
 Linear Regression with NumPy and Python
 
-In this course, I am going to focus on three learning objectives:
+In this project, I am going to focus on three learning objectives:
 
 - Implement the gradient descent algorithm from scratch.
 - Perform univariate linear regression with Numpy and Python.
 - Create data visualizations and plots using matplotlib.
 
 
-By the end of this course, I was able to build linear regression models from scratch using NumPy and Python, without the use of machine learning frameworks such as scikit-learn and statsmodels.
+By the end of this project, I was able to build linear regression models from scratch using NumPy and Python, without the use of machine learning frameworks such as scikit-learn and statsmodels.
 
 
 The project on Linear Regression with NumPy and Python was divided into the following tasks:
