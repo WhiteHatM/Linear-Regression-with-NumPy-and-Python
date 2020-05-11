@@ -45,3 +45,11 @@ The project on Linear Regression with NumPy and Python was divided into the foll
 - Task 9: Inference using the optimized 𝜃 values
 In this final task, I will use my final values for 𝜃 to make predictions on profits in cities of 35,000 and 70,000 people.
 
+Certificate details-
+
+Name:Linear Regression with NumPy and Python
+Issuing Organization:Coursera
+Issue Date:May 2020
+Expiration Date:This certification does not expire
+Credential ID:N9EWX5M7FY76
+Credential URL:https://www.coursera.org/account/accomplishments/certificate/N9EWX5M7FY76
